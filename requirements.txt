@@ -1,0 +1,10 @@
+requests
+tqdm
+datasets
+playwright
+pillow
+openai
+pandas
+matplotlib
+ipykernel
+nbformat
